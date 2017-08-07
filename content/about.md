@@ -3,7 +3,8 @@ title: About
 comments: false
 weight: -1
 type: post
-share: false
+share: true
+comment: true
 ---
 
 # About Me
