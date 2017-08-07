@@ -1,0 +1,21 @@
+baseurl = ""
+languageCode = "en-gb"
+title = "Perception Machines"
+theme = "hpstr-hugo-theme"
+pluralizelisttitles = false
+PygmentsCodeFences = true
+Paginate = 5
+disqusShortname = "jhooge"
+
+[params]
+	subtitle = "A Blog about Machine Learning"
+	[params.author]
+		name = "Jens Hooge"
+		avatar = "/images/avatar.jpg"
+		bio = "Bioinformatician - Data Scientist - Life Long Learner"
+		github = "jhooge"
+		linkedin = "jenshooge"
+		twitter = "HoogeJens"
+	[params.image]
+	  feature = "/images/image_front.jpg"
+	  creditlink = "http://places.csail.mit.edu"

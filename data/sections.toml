@@ -1,0 +1,5 @@
+[posts]
+	title = "All posts"
+[posts.image]
+          feature = "image_posts.jpg"
+          creditlink = "http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/"

@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "[[links]]\ntitle = \"Portfolio\"\nurl = \"http://jhooge.github.io/\"\n",
+    "created" : 1502039363402.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2361183853",
+    "id" : "57EDCFC",
+    "lastKnownWriteTime" : 1502041679,
+    "last_content_update" : 1502041679359,
+    "path" : "~/workspace/R/webDevelopment/Blog/data/navigation.toml",
+    "project_path" : "data/navigation.toml",
+    "properties" : {
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}
