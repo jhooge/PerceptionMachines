@@ -12,7 +12,7 @@ disqusShortname = "jhooge"
 	[params.author]
 		name = "Jens Hooge"
 		avatar = "/images/avatar.jpg"
-		bio = "Bioinformatician - Data Scientist - Life Long Learner"
+		bio = "Bioinformatician & Machine Learning Engineer"
 		github = "jhooge"
 		linkedin = "jenshooge"
 		twitter = "HoogeJens"
