@@ -8,7 +8,7 @@ Paginate = 5
 disqusShortname = "jhooge"
 
 [params]
-	subtitle = "A Blog about Machine Learning"
+	subtitle = "Making Sense - Bit by Bit."
 	[params.author]
 		name = "Jens Hooge"
 		avatar = "/images/avatar.jpg"
