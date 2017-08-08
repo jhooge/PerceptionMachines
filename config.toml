@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://perception-machines.netlify.com"
 languageCode = "en-gb"
 title = "Perception Machines"
 theme = "hpstr-hugo-theme"
